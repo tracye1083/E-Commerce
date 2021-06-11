@@ -61,15 +61,13 @@ The goal of this project was to build the back-end for an e-commerce site by mod
 
 ## Link to Full Video
 
-insert video link here
-[Link to view Full Video of Application](https://drive.google.com/file/d/16J2H-QGU83Wb0pAuEoJmqVFX2z0ass7h/view)
+[Link to view Full Video of Application](https://drive.google.com/file/d/1Yw3THCa5YC3TE3p9XBJwqBFooaF1NtwJ/view)
 
 ***
 
 ## Screenshots/GIF
 
-insert gif here
-![Animated GIF of Application in Use](Assets/Employee-Tracker.gif)
+![Animated GIF of Application in Use](Assets/E-Commerce.gif)
 
 ***
 
